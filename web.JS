@@ -263,10 +263,3 @@ document.getElementById('output_math').innerHTML =(list_items);
 </html>
 
 	
-Abhirami A (abhiramia142@gmail.com)
-
-IMG-20241028-WA0020.jpg
-(79K)
-Schedule when to send it
-Schedule messages to be sent at a certain time
-	
